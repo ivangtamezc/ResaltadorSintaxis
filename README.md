@@ -1,2 +1,2 @@
 # ResaltadorSintaxis
-Resaltador de sintaxis paralelo
+Resaltador de sintaxis paralelo en clojure
